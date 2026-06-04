@@ -95,17 +95,6 @@ AI가 가족 DB를 바탕으로 질문을 추천하고 답변을 누적 학습�
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SooHwanIT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SooHwanIT&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🏆 Awards
 
 | 수상 | 대회 | 연도 |
